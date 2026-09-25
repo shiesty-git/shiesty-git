@@ -30,8 +30,8 @@
   <!-- left text block -->
   <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
     <text x="64" y="82" fill="#e6edf3" font-size="34" font-weight="600" letter-spacing="0.5">Wilson Shindler</text>
-    <text x="64" y="114" fill="#FF694B" font-size="15" font-weight="500" letter-spacing="3">IT · SYSTEMS</text>
-    <text x="64" y="150" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" letter-spacing="1">Linux · Proxmox · Networking · DNS · VPN</text>
+    <text x="64" y="114" fill="#FF694B" font-size="15" font-weight="500" letter-spacing="3">UH · STUDENT</text>
+    <text x="64" y="150" fill="#7d8590" font-size="12.5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" letter-spacing="1">Linux · Low Arbitration · C · Networking</text>
   </g>
   <line x1="64" y1="126" x2="196" y2="126" stroke="#FF694B" stroke-width="1.5" opacity="0.85"/>
   <line x1="200" y1="126" x2="212" y2="126" stroke="#58a6a6" stroke-width="1.5" opacity="0.7"/>
@@ -71,7 +71,7 @@
 
     <!-- stage labels -->
     <g fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1.5">
-      <text x="600" y="76">linux</text>
+      <text x="600" y="76">boot</text>
       <text x="700" y="76">virtualize</text>
       <text x="818" y="76">connect</text>
     </g>
